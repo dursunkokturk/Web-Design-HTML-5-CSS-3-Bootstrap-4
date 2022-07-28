@@ -1,0 +1,9 @@
+p[title^="Bu"]{
+    color: red;
+}
+p[title$="Paragraf"]{
+    color: blue;
+}
+p[title~="Değildir"]{
+    color: black;
+}

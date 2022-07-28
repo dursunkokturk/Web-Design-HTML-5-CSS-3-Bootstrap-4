@@ -1,0 +1,14 @@
+a{
+    font-size: 100px;
+    text-decoration: none;
+    transition: color 1s blue linear;
+}
+a:link{
+   color: red; 
+}
+a:visited{
+   color: purple; 
+}
+a:hover{
+   color: green;
+}

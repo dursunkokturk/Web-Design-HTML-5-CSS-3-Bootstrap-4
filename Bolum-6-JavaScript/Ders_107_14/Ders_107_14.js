@@ -1,0 +1,1 @@
+document.write(Math.floor(10*Math.random()));

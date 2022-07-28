@@ -1,0 +1,1 @@
+document.write(Math.ceil(10*Math.random()));

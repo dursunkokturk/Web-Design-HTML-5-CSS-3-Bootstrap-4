@@ -1,0 +1,14 @@
+p{
+    display: inline;
+    border: 1px solid red;
+    display: none;
+}
+span{
+    display: block;
+    border: 1px solid red;
+    text-align: center;
+}
+div{
+    display: inline-block;
+    width: 10%;
+}

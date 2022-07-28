@@ -1,0 +1,80 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+#Yazi{
+    height: 200px;
+    width: 200px;
+}
+.red1{
+    background-color: red;
+    padding: 25px;
+}
+.yellow1{
+    background-color: yellow;
+}
+.red2{
+    background-color: red;
+    padding: 25px 0px;
+}
+.yellow2{
+    background-color: yellow;
+}
+.red3{
+    background-color: red;
+    padding: 40px 30px 20px 10px;
+}
+.yellow3{
+    background-color: yellow;
+}
+.red4{
+    background-color: red;
+    padding: 40px 30px 20px 10px;
+}
+.yellow4{
+    border: 5px solid black;
+    padding: 0 0 0 5px;
+    background-color: yellow;
+}
+.yellow4 p{
+    text-indent: 5px;
+}
+.yellow4 h2{
+    text-align: center;
+}
+.red5{
+    background-color: red;
+    padding: 40px 30px 20px 10px;
+}
+.yellow5{
+    color: white;
+    background-image: url("img/coder.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    padding: 0 0 0 5px;
+    background-color: yellow;
+}
+.yellow5 p{
+    color: white;
+    text-indent: 5px;
+}
+.yellow5 h2{
+    text-align: center;
+}
+.yellow6{
+    color: white;
+    background-image: url("img/coder.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    padding: 0 0 0 5px;
+    background-color: yellow;
+}
+.yellow6 p{
+    color: white;
+    text-indent: 5px;
+}
+.yellow6 h2{
+    text-align: center;
+}

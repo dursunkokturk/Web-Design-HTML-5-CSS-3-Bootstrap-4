@@ -1,0 +1,20 @@
+.takimlar1{
+    color: red;
+    background-color: blue;
+}
+.takimlar1 h1{
+    color: green;
+}
+.takimlar1 p{
+    color: white;
+    background-color: red;
+}
+.takimlar1 p em{
+    color: blueviolet;
+}
+#takimlar2 h1{
+    text-align: center;
+}
+#takimlar2 p{
+    color: red;
+}

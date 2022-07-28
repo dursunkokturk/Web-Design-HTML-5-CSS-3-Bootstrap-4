@@ -1,0 +1,8 @@
+.p1{
+    font-size: 100px;
+    text-shadow: 10px 12px 100px red;
+}
+.p2{
+    font-size: 100px;
+    text-shadow: rgba(255, 0, 0, 0.5) 10px 10px 1px;
+}

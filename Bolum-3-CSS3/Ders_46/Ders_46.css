@@ -1,0 +1,16 @@
+.p1{
+    font-size: 30px;
+    word-spacing: 1cm;
+}
+.p2{
+    font-size: 30px;
+    white-space: pre;
+}
+.p3{
+    font-size: 30px;
+    white-space: pre-line;
+}
+.p4{
+    font-size: 30px;
+    white-space: pre-wrap;
+}

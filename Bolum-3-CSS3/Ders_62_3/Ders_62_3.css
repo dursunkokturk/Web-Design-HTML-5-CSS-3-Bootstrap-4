@@ -1,0 +1,10 @@
+div{
+    width: 40%;
+    float: left;
+    border: 1px solid red;
+    background-color: green;
+    color: white;
+    padding-left: 100px;
+    box-sizing: border-box;
+    border-right: 50px solid blue;
+}

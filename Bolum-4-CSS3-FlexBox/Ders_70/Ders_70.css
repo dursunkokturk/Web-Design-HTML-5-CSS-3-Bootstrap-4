@@ -1,0 +1,31 @@
+.container-1 div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-1{
+    display: flex;
+}
+.container-2 div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.container-3 div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-3{
+    display: flex;
+    flex-direction: column;
+}
+.container-4 div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-4{
+    display: flex;
+    flex-direction: column-reverse;
+}

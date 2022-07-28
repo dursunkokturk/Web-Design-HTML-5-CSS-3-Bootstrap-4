@@ -1,0 +1,17 @@
+#firefox{
+    float: left;
+    border: 5px solid black;
+}
+#safari{
+    border: 5px solid black;
+}
+#chrome{
+    float: left;
+    border: 5px solid black;
+}
+#opera{
+    border: 5px solid black;
+}
+#InternetExplorer{
+    border: 5px solid black;
+}

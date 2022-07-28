@@ -1,0 +1,1 @@
+document.getElementById("baslik1").innerHTML = "<p>Dursun Köktürk</p>";

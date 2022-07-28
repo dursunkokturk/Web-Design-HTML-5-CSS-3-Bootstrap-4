@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+
+#baslik{
+    color: white;
+    font-size: 100px;
+}
+
+#bildil{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.elemanlar{
+    color: blue;
+    font-size: 50px;
+}

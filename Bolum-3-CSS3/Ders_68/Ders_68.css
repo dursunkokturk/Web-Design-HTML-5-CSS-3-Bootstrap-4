@@ -1,0 +1,27 @@
+#calisma1{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    box-shadow: 30px 30px 5px 5px gray;
+}
+#calisma2{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    box-shadow: 30px 30px 5px 5px gray,
+                60px 60px 5px 5px yellow,
+                90px 90px 5px 5px purple;
+}
+#calisma3{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    box-shadow:inset 50px 50px 5px gray;
+}
+#calisma4{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    box-shadow:inset 50px 50px 5px gray,
+                inset -50px -50px 5px gray;
+}

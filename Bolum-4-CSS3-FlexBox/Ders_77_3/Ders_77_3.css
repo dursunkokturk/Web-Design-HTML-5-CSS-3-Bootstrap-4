@@ -1,0 +1,25 @@
+.container-1 div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-1{
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-start;
+}
+.box-1{
+    flex-shrink: 0;
+}
+.box-2{
+    flex-shrink: 0;
+}
+.box-3{
+    flex-basis: 25%;
+    flex-shrink: 0;
+}
+.box-4{
+    flex-basis: 25%;
+    flex-shrink: 0;
+}

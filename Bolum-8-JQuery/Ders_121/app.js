@@ -1,0 +1,1 @@
+$("#baslik").html("JQuery İle P Etiketine Yazı Yazma");

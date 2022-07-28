@@ -1,0 +1,21 @@
+p{
+    border: 2px solid black;
+    height: 250px;
+}
+
+.LongText1{
+    display: table-cell;
+    vertical-align: top;
+}
+.LongText2{
+    display: table-cell;
+    vertical-align: middle;
+}
+.LongText3{
+    display: table-cell;
+    vertical-align: bottom;
+}
+.ShortText{
+    display: table-cell;
+    vertical-align: middle;
+}

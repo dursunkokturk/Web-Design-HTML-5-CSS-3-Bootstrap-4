@@ -1,0 +1,25 @@
+div{
+    border: 2px solid black;
+}
+
+.LongText1{
+    text-align: center;
+}
+.LongText2{
+    text-align: left;
+}
+.LongText3{
+    text-align: start;
+}
+.LongText4{
+    text-align: right;
+}
+.LongText5{
+    text-align: end;
+}
+.LongText6{
+    text-align: justify;
+}
+.ShortText{
+    text-align: center;
+}

@@ -1,0 +1,1 @@
+$("p, .p2, #p3").html("<strong><em>Etiket Adına Göre Tek Satırda Seçilen P Etiketi - Class Değerine Göre Tek Satırda Seçilen P Etiketi - Id Değerine Göre Tek Satırda Seçilen P Etiketi</em></strong>");

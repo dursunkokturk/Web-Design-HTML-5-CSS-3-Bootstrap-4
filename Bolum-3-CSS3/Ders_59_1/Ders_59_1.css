@@ -1,0 +1,35 @@
+div{
+    height: 500px;
+    width: 20%;
+    border: 5px solid blue;
+}
+#SiteBasligi{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+}
+.fixed{
+    position: fixed;
+    top: 0px;
+}
+.sticky{
+    position: sticky;
+    top: 0px;
+}
+#Menuler{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+#Menuler a{
+    color: white;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#black{
+    background-color: black;
+}

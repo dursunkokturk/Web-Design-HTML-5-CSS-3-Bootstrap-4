@@ -1,0 +1,54 @@
+#number1{
+    font-weight: 100;
+}
+#number2{
+    font-weight: 200;
+}
+#number3{
+    font-weight: 300;
+}
+#number4{
+    font-weight: 400;
+}
+#number5{
+    font-weight: 500;
+}
+#number6{
+    font-weight: 600;
+}
+#number7{
+    font-weight: 700;
+}
+#number8{
+    font-weight: 800;
+}
+#number9{
+    font-weight: 900;
+}
+#number10{
+    font-weight: bold;
+}
+#number11{
+    font-weight: bolder;
+}
+#number12{
+    font-weight: inherit;
+}
+#number13{
+    font-weight: initial;
+}
+#number14{
+    font-weight: lighter;
+}
+#number15{
+    font-weight: normal;
+}
+#number16{
+    font-weight: unset;
+}
+div{
+    font-weight: bold;
+}
+p{
+    font-weight: inherit;
+}

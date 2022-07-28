@@ -1,0 +1,1 @@
+$("p").parents().eq(1).css("background","red");

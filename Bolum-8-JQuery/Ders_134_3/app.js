@@ -1,0 +1,9 @@
+$("div").mouseenter(function(event){
+    $("div").text(event.type);
+});
+$("div").mousedown(function(event){
+    $("div").text(event.type);
+});
+$("div").mouseout(function(event){
+    $("div").text(event.type);
+});

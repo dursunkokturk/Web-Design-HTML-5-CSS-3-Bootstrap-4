@@ -1,0 +1,88 @@
+.p1{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+}
+.p2{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: repeat-x;
+}
+.p3{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: repeat-y;
+}
+.p4{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-attachment: fixed;
+}
+.p5{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.p6{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.p7{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.p8{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.p9{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.p10{
+    height: 500px;
+    background: red url("img/information.jpg") no-repeat right top;
+}
+.p11{
+    background-color: red;
+    height: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.p12{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+}
+.p13{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    background-image: url("img/information.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: contain;
+}

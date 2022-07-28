@@ -1,0 +1,21 @@
+table{
+    border-collapse: separate;
+    border-spacing: 20px 50px;
+    caption-side: bottom;
+    empty-cells: hide;
+    width: 100%;
+    border: 10px solid red;
+    table-layout: auto;
+}
+table tr td{
+    border: 5px solid purple;
+}
+#Satir1Sutun1{
+    width: 20%;
+}
+#Satir1Sutun2{
+    width: 30%;
+}
+#Satir1Sutun3{
+    width: 40%;
+}

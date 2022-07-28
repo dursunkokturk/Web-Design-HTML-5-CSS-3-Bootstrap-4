@@ -1,0 +1,69 @@
+p{
+    font-size: 50px;
+}
+#P1{
+    cursor: auto;
+}
+#P2{
+    cursor: crosshair;
+}
+#P3{
+    cursor: help;
+}
+#P4{
+    cursor: wait;
+}
+#P5{
+    cursor: move;
+}
+#P6{
+    cursor: text;
+}
+#P7{
+    cursor: n-resize;
+}
+#P8{
+    cursor: s-resize;
+}
+#P9{
+    cursor: ne-resize;
+}
+#P10{
+    cursor: sw-resize;
+}
+#P11{
+    cursor: nw-resize;
+}
+#P12{
+    cursor: sw-resize;
+}
+#P13{
+    cursor: e-resize;
+}
+#P14{
+    cursor: w-resize;
+}
+#P15{
+    cursor: pointer;
+}
+#P16{
+    cursor: progress;
+}
+#P17{
+    cursor: not-allowed;
+}
+#P18{
+    cursor: no-drop;
+}
+#P19{
+    cursor: vertical-text;
+}
+#P20{
+    cursor: all-scroll;
+}
+#P21{
+    cursor: col-resize;
+}
+#P22{
+    cursor: row-resize;
+}

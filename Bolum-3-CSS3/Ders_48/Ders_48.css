@@ -1,0 +1,54 @@
+.div1{
+    width: 200px;
+    height: 200px;
+    border-width: 40px;
+    border-color: red;
+    border-style: solid;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    border-width: 40px;
+    border-color: red;
+    border-style: dotted;
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    border-width: 40px;
+    border-color: red;
+    border-style: dashed;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    border-width: 40px;
+    border-color: red;
+    border-style: groove;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    border: 40px solid red;
+}
+.div6{
+    width: 200px;
+    height: 200px;
+    border: 40px dotted red;
+}
+.div7{
+    width: 200px;
+    height: 200px;
+    border: 40px dashed red;
+}
+.div8{
+    width: 200px;
+    height: 200px;
+    border: 40px groove red;
+}
+.div9{
+    width: 200px;
+    height: 200px;
+    border: 40px groove red;
+    border-radius: 50px;
+}

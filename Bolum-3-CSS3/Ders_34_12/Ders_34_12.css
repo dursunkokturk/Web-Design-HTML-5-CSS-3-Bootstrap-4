@@ -1,0 +1,6 @@
+a[href="https://www.google.com"]:visited{
+    color: red;
+}
+a[target="_blank"]{
+    color: blue;
+}

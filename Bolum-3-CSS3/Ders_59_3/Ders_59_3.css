@@ -1,0 +1,22 @@
+div{
+    height: 500px;
+    width: 20%;
+    border: 5px solid blue;
+}
+#red{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+}
+#yellow{
+    height: 100px;
+    width: 25%;
+    background-color: yellow;
+}
+#black{
+    height: 100px;
+    background-color: black;
+}
+.absolute{
+    position: absolute;
+}

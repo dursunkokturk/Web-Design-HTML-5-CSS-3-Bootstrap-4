@@ -1,0 +1,22 @@
+.p1{
+    text-decoration: line-through;
+}
+.p2{
+    text-decoration: overline;
+}
+.p3{
+    text-decoration: underline;
+}
+.Dursun{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+.AltiCizili{
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+.TextIndent{
+    text-indent: 30px;
+}

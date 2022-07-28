@@ -1,0 +1,1 @@
+$(".div").html("Class Değeri Div 1 Olan Div Etiketi");

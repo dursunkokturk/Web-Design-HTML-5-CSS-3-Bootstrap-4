@@ -1,0 +1,13 @@
+div{
+    width: 20%;
+    float: left;
+    border: 1px solid red;
+    background-color: green;
+    color: white;
+    height: 400px;
+    margin: 10px 5px 10px 20px;
+}
+.w-100{
+    width: 100%;
+    margin-top: 100px;
+}

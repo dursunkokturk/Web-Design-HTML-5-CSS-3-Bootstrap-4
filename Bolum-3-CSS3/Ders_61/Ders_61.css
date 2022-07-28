@@ -1,0 +1,16 @@
+div{
+    overflow: auto;
+    height: 250px;
+    width: 100%;
+    border: 1px solid red;
+}
+img{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+p{
+    float: left;
+    width: 70%;
+    text-indent: 20px;
+}

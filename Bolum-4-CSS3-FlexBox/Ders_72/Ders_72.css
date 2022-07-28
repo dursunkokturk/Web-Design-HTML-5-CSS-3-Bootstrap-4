@@ -1,0 +1,102 @@
+.container-1 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.container-2 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container-3 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container-4 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.container-5 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.container-6 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-6{
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container-7 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-7{
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container-8 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-8{
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

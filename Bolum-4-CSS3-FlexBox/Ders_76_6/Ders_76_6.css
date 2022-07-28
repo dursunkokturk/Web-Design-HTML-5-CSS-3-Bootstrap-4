@@ -1,0 +1,26 @@
+.container-1 div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-1{
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+}
+.box-1{
+    order: 0;
+    align-self: flex-start;
+}
+.box-2{
+    order: 0;
+    align-self: center;
+}
+.box-3{
+    order: 0;
+    align-self: flex-end;
+}
+.box-4{
+    order: 0;
+}

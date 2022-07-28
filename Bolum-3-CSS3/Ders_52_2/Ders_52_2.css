@@ -1,0 +1,11 @@
+#List1 li{
+    list-style: none;
+}
+#List1 li::before{
+    content: '';
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-image: url("img/information.jpg");
+    background-size: 20px;
+}

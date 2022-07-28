@@ -1,0 +1,1 @@
+$("div ~ p").html("div ~ p Yöntemini Kullanarak Div Etiketi İle Aynı Hizada Olan P Etiketlerini Seçme ve Yazdırma");

@@ -1,0 +1,8 @@
+#List1{
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+}
+#List2{
+    list-style-type: circle;
+    list-style-position: outside;
+}

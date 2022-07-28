@@ -1,0 +1,9 @@
+$("button").eq(0).click({Deger:0},function(event){
+    $("div").text(event.data.Deger);
+});
+$("button").eq(1).click({Deger:1},function(event){
+    $("div").text(event.data.Deger);
+});
+$("button").eq(2).click({Deger:2},function(event){
+    $("div").text(event.data.Deger);
+});

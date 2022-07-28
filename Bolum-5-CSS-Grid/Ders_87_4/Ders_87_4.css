@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+}
+.container{
+    display: grid;
+    grid-template: 50px 50px 400px 100px / 3fr 1fr;
+    grid-template-areas: "header header"
+                        "menu menu"
+                        "main sidebar"
+                        "footer footer";
+}
+.header{
+    grid-area: header;
+    background-color: aqua;
+}
+.menu{
+    grid-area: main;
+    background-color: aquamarine;
+}
+.main{
+    grid-area: menu;
+    background-color: blue;
+}
+.sidebar{
+    grid-area: sidebar;
+    background-color: chocolate;
+}
+.footer{
+    grid-area: footer;
+    background-color: darkcyan;
+}
+li{
+    display: inline;
+}

@@ -1,0 +1,16 @@
+.serif{
+    font-family: "Roboto",serif;
+    font-weight: 700;
+}
+.sans-serif{
+    font-family: sans-serif;
+}
+.cursive{
+    font-family: cursive;
+}
+.fantasy{
+    font-family: fantasy;
+}
+.monospace{
+    font-family: monospace;
+}

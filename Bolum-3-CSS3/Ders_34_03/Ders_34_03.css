@@ -1,0 +1,8 @@
+p::first-line{
+    color: red;
+    background-color: yellow;
+}
+p::after{
+    content: "Naber";
+    background-color:turquoise;
+}

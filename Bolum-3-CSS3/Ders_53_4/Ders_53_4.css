@@ -1,0 +1,11 @@
+table{
+    border-collapse: separate;
+    border-spacing: 20px 50px;
+    caption-side: bottom;
+    empty-cells: hide;
+    width: 100%;
+    border: 10px solid red;
+}
+table tr td{
+    border: 5px solid purple;
+}

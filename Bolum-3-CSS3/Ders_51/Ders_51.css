@@ -1,0 +1,100 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    color: orangered;
+}
+#TopWriting{
+    font-family: 'Times New Roman', Times, serif;
+    background: url("img/information.jpg");
+    background-size: 100%;
+}
+.MiddleWriting{
+    font-size: 20px;
+    text-shadow: 0px 0px 1px black;
+    background-color: lightgreen;
+}
+.Jobs{
+    float: left;
+    width: 100%;
+    font-weight: bold;
+}
+.Jobs1{
+    padding-top: 10px;
+    float: left;
+    width: 33.33%;
+}
+.Jobs2{
+    padding-top: 10px;
+    float: left;
+    width: 33.33%;
+}
+.Jobs3{
+    padding-top: 10px;
+    float: left;
+    width: 33.33%;
+}
+.Jobs1:nth-child(1){
+    background: url("img/coder.jpg");
+    background-size: 100%;
+}
+.Jobs1:nth-child(1) p{
+    color: turquoise;
+}
+.Jobs2:nth-child(2){
+    background: url("img/laptop.jpg");
+    background-size: 100%;
+}
+.Jobs2:nth-child(2) p{
+    color: green;
+}
+.Jobs3:nth-child(3){
+    background: url("img/perfect.jpg");
+    background-size: 100%;
+}
+.Jobs3:nth-child(3) p{
+    color: purple;
+}
+#About{
+    clear: both;
+    background-color: tomato;
+    height: 300px;
+    color: black;
+    font-weight: bold;
+}
+#About img{
+    margin: 20px;
+    border: 5px dashed black;
+}
+#About p{
+    white-space: pre-line;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+#About p::first-line{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+@media screen and (max-width: 992px){
+    .Jobs1{
+        width: 100%;
+    }
+    .Jobs2{
+        width: 100%;
+    }
+    .Jobs3{
+        width: 100%;
+    }
+    #About{
+        margin-top: 920px;
+        height: 350px;
+    }
+    #About img{
+        margin-top: 20px;
+    }
+}

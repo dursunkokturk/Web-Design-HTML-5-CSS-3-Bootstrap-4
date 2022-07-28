@@ -1,0 +1,14 @@
+.container-1 div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.container-1{
+    height: 700px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}

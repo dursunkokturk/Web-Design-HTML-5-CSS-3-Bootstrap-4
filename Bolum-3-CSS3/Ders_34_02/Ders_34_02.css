@@ -1,0 +1,7 @@
+p::first-line{
+    color: red;
+    background-color: yellow;
+}
+p{
+    background-color:turquoise;
+}

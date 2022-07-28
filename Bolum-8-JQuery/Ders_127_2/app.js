@@ -1,0 +1,1 @@
+$("input").attr("value","Lütfen İsim Giriniz");

@@ -1,0 +1,1 @@
+$("p").parents().css("background","red");

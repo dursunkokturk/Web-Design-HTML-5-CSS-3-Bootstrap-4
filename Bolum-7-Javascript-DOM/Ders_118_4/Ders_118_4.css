@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+}
+#parent{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    position: relative;
+}
+#child{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    position: absolute;
+    left: 75px;
+    top: 75px;
+}
